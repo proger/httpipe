@@ -1,0 +1,8 @@
+{application, httpipe,
+ [{description, "HTTP<->Shell Pipe"},
+  {vsn, "0.1.0"},
+  {modules, [
+            ]},
+  {applications, [kernel, stdlib]},
+  {registered, []}
+ ]}.
